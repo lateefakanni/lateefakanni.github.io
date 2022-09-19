@@ -1,0 +1,36 @@
+# Authors
+
+Lateef Akanni:
+  name        : "Lateef Akanni"
+avatar           : "/images/passport.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+bio              :
+location         :
+links:
+  - label: "Email"
+    icon: "fas fa-fw fa-envelope-square"
+    url: "mailto:akanniolat@yahoo.com"
+
+  - label: "Twitter"
+    icon: "fab fa-fw fa-twitter-square"
+    url: "https://twitter.com/lateefakanni"
+
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/lateefakanni"
+
+  - label: "Google Scholar"
+    icon: "fas fa-fw fa-graduation-cap"
+    url: "https://scholar.google.com/citations?user=7LSRR4UAAAAJ&hl=en"
+
+  - label: "LinkedIn"
+    icon: "fab fa-fw fa-linkedin"
+    url: "https://linkedin.com/in/lateef-akanni"
+
+
+Name2 Name2:
+  name        : "Name2 Name2"
+  email       : "name2@name2.com"
+  bio         : "I ordered what?"
+  avatar      : "bio-photo.jpg"
+  twitter     : "name2"
+  google_plus : "Name"
