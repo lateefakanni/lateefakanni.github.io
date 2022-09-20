@@ -1,7 +1,6 @@
 ---
 title: "Welcome!"
 permalink: /
-layout: home
 excerpt: ""
 author_profile: true
 redirect_from:
