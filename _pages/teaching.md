@@ -6,6 +6,8 @@ author_profile: true
 classes: wide
 ---
 
+# <center> Teaching </center>
+- - -
 
 **Analysis of Economic Data**
 Graduate Teaching Assistant. *Strathclyde Business School*, 2022/2023
