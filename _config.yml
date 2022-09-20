@@ -120,7 +120,7 @@ author:
   name             : "Lateef Akanni"
   avatar           : "/files/images/passport.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : PhD Candidate in Economics
-  location         : [Strathclyde Business School](https://www.strath.ac.uk/business/)
+  location         : Strathclyde Business School
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
