@@ -1,38 +1,38 @@
 ---
 layout: single
-title:
+title: ""
 permalink: /teaching/
 author_profile: true
 classes: wide
 ---
 
-# <center> Teaching </center>
+## Graduate Teaching Assistant
 - - -
 
-**Analysis of Economic Data**
-Graduate Teaching Assistant. *Strathclyde Business School*, 2022/2023
+**Analysis of Economic Data** \
+<small> *Strathclyde Business School*, 2022 - <small>
 
-**Topics in Microeconomics with Cross Section Econometrics**
-Graduate Teaching Assistant. *Strathclyde Business School*, 2022/2023
+**Topics in Microeconomics with Cross Section Econometrics** \
+<small> *Strathclyde Business School*, 2022 - <small>
 
-**Topics in Macroeconomics with Time Series Econometrics**
-Graduate Teaching Assistant. *Strathclyde Business School*, 2022/2023
+**Topics in Macroeconomics with Time Series Econometrics** \
+<small> *Strathclyde Business School*, 2022 - <small>
 
-**Economics and Finance**
-Graduate Teaching Assistant. *Strathclyde Business School*, 2021/2022
+**Economics and Finance** \
+<small> *Strathclyde Business School*, 2021 - <small>
 
-**Introduction to Economics**
-Graduate Teaching Assistant. *Strathclyde Business School*, 2021/2022
+**Introduction to Economics** \
+<small> *Strathclyde Business School*, 2021/2022 <small>
 
-**Work Psychology**
-Graduate Teaching Assistant. *Strathclyde Business School*, 2021/2022
+**Work Psychology** \
+<small> *Strathclyde Business School*, 2021/2022 <small>
 
-**Intermediate Microeconomics**
-Adjunct Lecturer, *University of Lagos Distance Learning Institute*, 2015 - 2017
+- - -
+**Intermediate Microeconomics** \
+<small> Adjunct Lecturer, *University of Lagos Distance Learning Institute*, 2015 - 2017 <small>
 
-**Mathematical Economics**
-Adjunct Lecturer, *University of Lagos Distance Learning Institute*, 2015 - 2017
+**Mathematical Economics** \
+<small> Adjunct Lecturer, *University of Lagos Distance Learning Institute*, 2015 - 2017 <small>
 
-**History of Economic Thought**
-Adjunct Lecturer, *University of Lagos Distance Learning Institute*, 2015 - 2017
-
+**History of Economic Thought** \
+<small> Adjunct Lecturer, *University of Lagos Distance Learning Institute*, 2015 - 2017 <small>
