@@ -9,9 +9,7 @@ redirect_from:
 ---
 
 
-I am a [PhD candidate in Economics](https://pureportal.strath.ac.uk/en/persons/lateef-akanni) at the [University of Strathclyde Business School](https://www.strath.ac.uk/business/economics/). My expected graduation date is September 2023.
-
-My research interests are in the fields of Health Economics, Welfare Economics, and Applied Econometrics.
+I am a [PhD candidate in Economics](https://pureportal.strath.ac.uk/en/persons/lateef-akanni) at the [University of Strathclyde Business School](https://www.strath.ac.uk/business/economics/). My research interests are in the fields of Health Economics, Welfare Economics, and Applied Econometrics.
 
 My PhD research is on the effects of the introduction and annual uprating in the National Living Wage in the UK on health and wellbeing, with specific consideration of the counteracting impacts of the freeze to working-age welfare benefits between 2016 and 2020.
 
