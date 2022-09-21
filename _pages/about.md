@@ -1,5 +1,5 @@
 ---
-title: "Welcome!"
+title: "About me"
 permalink: /
 excerpt: ""
 author_profile: true
