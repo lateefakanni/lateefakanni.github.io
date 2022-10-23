@@ -6,6 +6,7 @@ main:
 
   - title: "CV"
     url: /files/lateef_cv.pdf
+    #    url: /files/cv/cv.pdf
 
   - title: "Publications"
     url: /publications/
