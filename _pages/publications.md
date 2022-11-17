@@ -14,7 +14,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
 
-# <center> Published Papers </center>
+# <center> Selected Publications </center>
 - - -
 
 **Income trajectories and self-rated health status in the UK** (with Otto Lenhart and Alec Morton). 2022. *SSM - Population Health* <br/>
