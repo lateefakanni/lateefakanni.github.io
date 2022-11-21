@@ -16,13 +16,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 # <center> Blog posts </center>
 - - -
-**The implication of Covid-19 pandemic on the Nigerian Economy**. (with Samuel C Gabriel). April 2020. *CSEA Blogs* <br/>
+**The implication of Covid-19 pandemic on the Nigerian Economy**. (with Samuel C Gabriel). April 2020. *CSEA Nigeria Blogs* <br/>
 <small>[ [Link][CSEA-Covid] ]</small>
 
 [CSEA-Covid]: https://cseaafrica.org/the-implication-of-covid19-on-the-nigerian-economy/
 
 
-**The 2020 National Budget: right cycle is great, but implementation is better**. October 2019. *CSEA Blogs* <br/>
+**The 2020 National Budget: right cycle is great, but implementation is better**. October 2019. *CSEA Nigeria Blogs* <br/>
 <small>[ [Link][CSEA-Budget] ]</small>
 
 [CSEA-Budget]: https://cseaafrica.org/the-2020-national-budget-right-cycle-is-great-but-implementation-is-better/
