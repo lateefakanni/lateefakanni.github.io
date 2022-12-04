@@ -35,6 +35,7 @@ This paper offers two main innovations. First, we construct a global fear index 
 </small><br><br/></div>
 
 [gfi-index]: https://doi.org/10.1080/1540496X.2020.1785424
+
 [gfi-data]: https://github.com/lateefakanni/covid_gfi_data
 
 **Is Nigeria experiencing a learning crisis: Evidence from curriculum-matched learning assessment** (with Adedeji Adeniran and Joseph Ishaku). 2020. *International Journal of Educational Development* <br/>
