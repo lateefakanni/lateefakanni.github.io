@@ -28,14 +28,14 @@ In line with the wide recognition of the connection between socioeconomic status
 
 
 **Constructing a Global Fear Index for the COVID-19 Pandemic** (with Afees A Salisu). 2020. *Emerging Markets Finance and Trade* <br/>
-<small>[ <a href="#/" onclick="visib('gfi-index')">Abstract</a> | [Paper][gfi-index] ]</small>
+<small>[ <a href="#/" onclick="visib('gfi-index')">Abstract</a> | [Paper][gfi-index] | [Data][gfi-data] ]</small>
 
 <div id="gfi-index" style="display: none; text-align: justify; line-height: 1.2" ><small>
 This paper offers two main innovations. First, we construct a global fear index (GFI) for the COVID-19 pandemic to support economic, financial, and policy analyses in this area. Second, we demonstrate the application of the index to stock return predictability using OECD data. The panel data predictability results reveal the significance of the index as a good predictor of stock returns during the pandemic. Also, we find that accounting for “asymmetry” effect and macro (common) factors improves the forecast performance of the GFI-based predictive model for stock returns. With regular updates and improvements of the index, several empirical analyses can be extended to other macroeconomic fundamentals in future research.
 </small><br><br/></div>
 
 [gfi-index]: https://doi.org/10.1080/1540496X.2020.1785424
-
+[gfi-data]: https://github.com/lateefakanni/covid_gfi_data
 
 **Is Nigeria experiencing a learning crisis: Evidence from curriculum-matched learning assessment** (with Adedeji Adeniran and Joseph Ishaku). 2020. *International Journal of Educational Development* <br/>
 <small>[ <a href="#/" onclick="visib('learning-crisis')">Abstract</a> | [Paper][learning-crisis] ] </small>
