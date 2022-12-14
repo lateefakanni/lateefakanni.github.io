@@ -9,15 +9,14 @@ classes: wide
 
 ## Teaching Statement
 - - - 
+[Teaching statement]({{ site.url }}/files/teaching-statement.pdf)
 
 [Professional recognition (AFHEA)]({{ site.url }}/files/afhea-certificate.pdf) 
-
-[Teaching statement]({{ site.url }}/files/teaching-statement.pdf)
 
 ## Graduate Teaching Assistant
 - - -
 
-**Analysis of Economic Data** (*MSc*) *Strathclyde Business School*, 2022 - on \
+**Analysis of Economic Data** (*MSc*) *Strathclyde Business School*, 2022 -  \
 <small> Assist the lecturer in facilitating teaching and facilitating the R-software lab <small>
 
 **Topics in Microeconomics with Cross Section Econometrics** (*BSc*) \
