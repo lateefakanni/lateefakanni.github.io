@@ -14,9 +14,9 @@ links:
     icon: "fab fa-fw fa-twitter-square"
     url: "https://twitter.com/lateefakanni"
 
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/lateefakanni"
+  #  - label: "GitHub"
+  #    icon: "fab fa-fw fa-github"
+  #    url: "https://github.com/lateefakanni"
 
   - label: "Google Scholar"
     icon: "fas fa-fw fa-graduation-cap"
