@@ -32,8 +32,6 @@ This study evaluates the mental health effects of two simultaneously implemented
 [nlw-health]: https://strathprints.strath.ac.uk/83257/
 
 
-
-
 ## Publications
 - - -
 **Income trajectories and self-rated health status in the UK** (with Otto Lenhart and Alec Morton). 2022. *SSM - Population Health* <br/>
