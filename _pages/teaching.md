@@ -7,13 +7,14 @@ classes: wide
 ---
 
 
-## Teaching Statement
-- - - 
-[Teaching statement]({{ site.url }}/files/teaching-statement.pdf)
+### [Teaching Statement]({{ site.url }}/files/teaching-statement.pdf)
 
-[Professional recognition (AFHEA)]({{ site.url }}/files/afhea-certificate.pdf) 
+### [Professional recognition (AFHEA)]({{ site.url }}/files/afhea-certificate.pdf) 
 
-## Graduate Teaching Assistant
+
+## Teaching Experience 
+
+### Graduate Teaching Assistant
 - - -
 
 **Analysis of Economic Data** (*MSc*) *Strathclyde Business School*, 2022 -  \
@@ -31,7 +32,10 @@ classes: wide
 **Work Psychology** (*BSc*) \
 <small> *Strathclyde Business School*, 2021/2022 <small>
 
+
+### Adjunct Lecturer
 - - -
+
 **Intermediate Microeconomics** (*BSc*) \
 <small> Adjunct Lecturer, *University of Lagos Distance Learning Institute*, 2015 - 2017 <small>
 
