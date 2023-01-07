@@ -23,7 +23,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 - - -
 
 **Conflicting economic policies and mental health: evidence from the UK national living wage and benefits freeze** (with Otto Lenhart and Alec Morton). <br/>
-<small>[ <a href="#/" onclick="visib('nlw-health')">Abstract</a> | [Discussion paper][nlw-health] ] </small>
+<small>[ <a href="#/" onclick="visib('nlw-health')">Abstract</a> | [Discussion paper][nlw-health]  *Revise and Resubmit* ] </small>
 
 <div id="nlw-health" style="display: none; text-align: justify; line-height: 1.2" ><small>
 This study evaluates the mental health effects of two simultaneously implemented but conflicting policies in the UK: the National Living Wage and the benefits freeze policy. We employed the Callaway and Sant’Anna (2021) DID estimator to evaluate the heterogeneous policy effects, and we found that NLW leads to positive improvements in mental health. Also, we find that the negative impact of the benefits freeze policy constricts the NLW effects. Our result is robust to the sensitivity analysis of the parallel trend assumption. Additional results support the psychosocial hypothesis that increased job satisfaction is strongly correlated with improvements in mental health. Also, we found evidence of substitution effects between work hours and leisure. Overall, our findings suggest that the effects of the NLW cannot be understood in isolation from how the entire suite of policy instruments operates on earnings and liveable income for affected low-wage workers.
