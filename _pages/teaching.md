@@ -7,11 +7,12 @@ classes: wide
 ---
 
 
-## [Teaching Statement]({{ site.url }}/files/teaching-statement.pdf) | [Professional recognition (AFHEA)]({{ site.url }}/files/afhea-certificate.pdf) 
+### [Teaching Statement]({{ site.url }}/files/teaching-statement.pdf) 
+### [Professional recognition (AFHEA)]({{ site.url }}/files/afhea-certificate.pdf) 
 
-# <center> Teaching Experience </center>  
+## <center> Teaching Experience </center>  
 
-## Graduate Teaching Assistant
+### Graduate Teaching Assistant
 - - -
 
 **Analysis of Economic Data** (*MSc*) *Strathclyde Business School*, 2022 -  \
@@ -30,7 +31,7 @@ classes: wide
 <small> *Strathclyde Business School*, 2021/2022 <small>
 
 
-## Adjunct Lecturer
+### Adjunct Lecturer
 - - -
 
 **Intermediate Microeconomics** (*BSc*) \
