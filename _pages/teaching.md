@@ -7,14 +7,12 @@ classes: wide
 ---
 
 
-### [Teaching Statement]({{ site.url }}/files/teaching-statement.pdf) 
-### [Professional recognition (AFHEA)]({{ site.url }}/files/afhea-certificate.pdf) 
+### [Teaching Statement]({{ site.url }}/files/teaching-statement.pdf) | [Professional recognition (AFHEA)]({{ site.url }}/files/afhea-certificate.pdf) 
+---
 
-## <center> Teaching Experience </center>  
+## Teaching Experience
 
 ### Graduate Teaching Assistant
-- - -
-
 **Analysis of Economic Data** (*MSc*) *Strathclyde Business School*, 2022 -  \
 <small> Assist the lecturer in facilitating teaching and facilitating the R-software lab <small>
 

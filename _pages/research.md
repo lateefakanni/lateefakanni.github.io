@@ -13,13 +13,11 @@ classes: wide
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
-### [Research Statement]({{ site.url }}/files/teaching-statement.pdf) 
-### ONS Accredited Researcher No [35345](https://uksa.statisticsauthority.gov.uk/wp-content/uploads/2023/01/2023_01_03_UKSA_AR_Report.xlsx) 
+### [Research Statement]({{ site.url }}/files/teaching-statement.pdf) | ONS Accredited Researcher No [35345](https://uksa.statisticsauthority.gov.uk/wp-content/uploads/2023/01/2023_01_03_UKSA_AR_Report.xlsx) 
 
+---
 
 ## Working papers
-- - -
-
 **Conflicting economic policies and mental health: evidence from the UK national living wage and benefits freeze** (with Otto Lenhart and Alec Morton). <br/>
 <small>[ <a href="#/" onclick="visib('nlw-health')">Abstract</a> | [Discussion paper][nlw-health] | **Revise and Resubmit** ] </small>
 
@@ -29,9 +27,9 @@ This study evaluates the mental health effects of two simultaneously implemented
 
 [nlw-health]: https://strathprints.strath.ac.uk/83257/
 
+- - -
 
 ## Publications
-- - -
 **Income trajectories and self-rated health status in the UK** (with Otto Lenhart and Alec Morton). 2022. *Social Science and Medicine - Population Health* <br/>
 <small>[ <a href="#/" onclick="visib('income-trajectories')">Abstract</a> | [Paper][income-trajectories] ] </small>
 
