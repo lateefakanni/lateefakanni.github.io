@@ -16,6 +16,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 # <center> Blog posts </center>
 - - -
+
+**Research internship - a good balance**. 18 January April 2023. *Strathclyde Business School Blogs* <br/>
+<small>[ [Link][SBS-blog] ]</small>
+
+[SBS-blog]: https://www.sbs.strath.ac.uk/blogs/SBS/post.aspx?id=1508
+
+
 **The implication of Covid-19 pandemic on the Nigerian Economy**. (with Samuel C Gabriel). April 2020. *CSEA Nigeria Blogs* <br/>
 <small>[ [Link][CSEA-Covid] ]</small>
 
