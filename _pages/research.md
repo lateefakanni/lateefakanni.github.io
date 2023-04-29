@@ -17,7 +17,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 ---
 
-## Working papers
+## Work in Progress
 **Conflicting economic policies and mental health: evidence from the UK national living wage and benefits freeze** (with Otto Lenhart and Alec Morton). <br/>
 <small>[ <a href="#/" onclick="visib('nlw-health')">Abstract</a> | [Discussion paper][nlw-health] | **Revise and Resubmit** ] </small>
 
@@ -26,6 +26,15 @@ This study evaluates the mental health effects of two simultaneously implemented
 </small><br><br/></div>
 
 [nlw-health]: https://strathprints.strath.ac.uk/83257/
+
+
+**The Covid-19 Crisis and Subjective Wellbeing in Britain** (with Chris Deeming). <br/>
+<small>[ <a href="#/" onclick="visib('covid-19-swb')">Abstract</a>  ] </small>
+
+<div id="covid-19-swb" style="display: none; text-align: justify; line-height: 1.2" ><small>
+In this study we consider the impact of the COVID-19 pandemic across four different dimensions of subjective wellbeing (SWB). In the analyses we pool 110 waves of Secure Access data from the Opinions and Lifestyle (OPN) Survey fielded by the UK’s [Office for National Statistics]([ONS](https://doi.org/10.5255/UKDA-Series-2000043)). We consider the micro and macro aspects of institutional measures to address the COVID-19 pandemic on different measures of SWB, which include happiness, life satisfaction, worthwhileness and anxiety. Using the micro survey data, we consider the impact of micro measures to contain the spread of the virus on SWB, including the effects for workers on the Coronavirus Job Retention Scheme  and those working from home and home schooling. From a macro policy perspective, we evaluate the effects of aggregate governmental policy measures using the [Oxford COVID-19 Government Response Tracker](https://www.nature.com/articles/s41562-021-01079-8) on SWB. Our findings show that both the micro and macro indicators of policy measures significantly predict SWB during the pandemic. Additionally, we find that SWB deteriorated significantly during the COVID-19 pandemic and has subsequently failed to return to the pre-pandemic levels after the ending of all public health restrictions in the UK, that signalled the end of the pandemic.
+</small><br><br/></div>
+
 
 - - -
 
