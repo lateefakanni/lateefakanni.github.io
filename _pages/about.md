@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a [PhD candidate in Economics](https://pureportal.strath.ac.uk/en/persons/lateef-akanni) at the [University of Strathclyde Business School](https://www.strath.ac.uk/business/economics/). My supervisors are [Dr Otto Lenhart](https://www.strath.ac.uk/staff/lenhartottodr/) and [Prof Alec Morton](https://www.strath.ac.uk/staff/mortonalecprof/), and my research interests are in the fields of Health Economics, Welfare Economics, and Applied Microeconomics. My PhD research is on the effects of the national living wage and changes in state welfare benefits on health and wellbeing outcomes.
+I am a [PhD candidate in Economics](https://pureportal.strath.ac.uk/en/persons/lateef-akanni) at the [University of Strathclyde Business School](https://www.strath.ac.uk/business/economics/). My supervisors are [Dr Otto Lenhart](https://www.strath.ac.uk/staff/lenhartottodr/) and [Prof Alec Morton](https://www.strath.ac.uk/staff/mortonalecprof/), and my research interests are in the fields of Health Economics, Welfare Economics, and Applied Microeconomics. My PhD research is on the effects of the UK national living wage and changes in state welfare benefits policies on health and wellbeing outcomes.
 
 [comment]:<> My Job Market Paper 
 
