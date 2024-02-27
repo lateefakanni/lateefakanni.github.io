@@ -14,7 +14,7 @@ I have a PhD in Economics from [the University of Strathclyde Business School, G
 
 I am an [Associate Fellow]({{ site.url }}/files/afhea-certificate.pdf) of the [Higher Education Academy (AFHEA)](https://www.advance-he.ac.uk/), an international and professional recognition of my commitment to learning and teaching. It is also a confirmation of the alignment of my practice to the UK Professional Standards Framework (UKPSF) in Higher Education.
 
-I completed both my MSc (Distinction) and BSc (Hons) in Economics as the Best Graduating Student with prizes and awards respectively, including the Tony O. Elumelu Legacy Price for Excellence in 2014 and the Olabisi Onabanjo University Council Scholarship/Bursary Award of Merit to Brilliant Student in 2010. 
+I completed both my MSc (Distinction) and BSc (Hons) in Economics as the Best Graduating Student with prizes and awards, including the Tony O. Elumelu Legacy Price for Excellence in 2014 and the Olabisi Onabanjo University Council Scholarship/Bursary Award of Merit to Brilliant Student in 2010. 
 
 [comment]:<> I have also contributed as a research assistant on a UK Research and Innovation Covid-19 funded project on the wellbeing impacts of the UK government's different health restrictions during the Covid-19 pandemic.
 
