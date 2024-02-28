@@ -119,8 +119,8 @@ analytics:
 author:
   name             : "Lateef Akanni"
   avatar           : "/files/images/passport.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : PhD Candidate in Economics
-  location         : Strathclyde Business School
+  bio              : Postdoctoral Research Associate
+  location         : University of Liverpool
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
