@@ -120,8 +120,8 @@ author:
   name             : "Lateef Akanni"
   avatar           : "/files/images/passport.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : Postdoctoral Research Associate
-  location         : [University of Liverpool](https://www.liverpool.ac.uk/population-health/staff/lateef-akanni/)
-  links:
+  location         : University of Liverpool
+  links:             https://www.liverpool.ac.uk/population-health/staff/lateef-akanni/
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:akanniolat@yahoo.com"
