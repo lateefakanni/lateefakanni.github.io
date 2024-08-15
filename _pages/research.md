@@ -44,8 +44,8 @@ In this study we consider the impact of the COVID-19 pandemic across four differ
 
 <div id="imr-report" style="display: none; text-align: justify; line-height: 1.2" ><small>
 The analysis, which was prepared by experts from the Child of the North group – a partnership between Health Equity North and N8 Research Partnership, found the most deprived parts of the country, the North of England and Black and Asian ethnic groups experienced an increase in infant mortality rates (IMR). The increase has been linked to risk factors such as prematurity, congenital anomalies, low birthweight, ethnicity, maternal age, deprivation, poverty and inequality.
-** aCite as:  Akanni, Udu, Esan, Black et al. Infant mortality in England: August 2024. NHSA (2024). www.healthequitynorth.co.uk **
-Full report in the link below.
+Cite as:  Akanni, Udu, Esan, Black et al. Infant mortality in England: August 2024. NHSA (2024). www.healthequitynorth.co.uk
+
 </small><br><br/></div>
 
 [imr-report]: https://www.healthequitynorth.co.uk/app/uploads/Infant-mortality-report-FINAL.pdf
