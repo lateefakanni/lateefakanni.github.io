@@ -119,7 +119,7 @@ analytics:
 author:
   name             : "Lateef Akanni"
   avatar           : "/files/images/passport.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : Postdoctoral Research Associate
+  bio              : Research Associate
   location         : University of Liverpool
   links:
     - label: "Email"
